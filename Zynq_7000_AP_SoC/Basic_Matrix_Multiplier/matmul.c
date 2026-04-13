@@ -1,3 +1,6 @@
+//CWIR3
+//tried and tested om the ZYNQ AP SoC 7000
+
 #include <stdio.h>
 #include "platform.h"
 #include "xil_printf.h"
