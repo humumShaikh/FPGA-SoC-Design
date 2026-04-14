@@ -138,4 +138,34 @@
 <br>
 <br>
 
-24. This process will take quite a good amount of time, also depending on your system. Wait until the bitstream is generated and this pop-up shows up.
+24. This process will take quite a good amount of time, also depending on your system. Wait until the bitstream is generated and this pop-up shows up., click on cancel, you may view the implemented design or the reports if you want.
+<img width="393" height="338" alt="image" src="https://github.com/user-attachments/assets/31c1d114-eec2-4969-b92f-f37aea837d58" />
+<br>
+<br>
+<br>
+
+25. Now on the top left, click on *File* and go to the *Export* option and then select the *Export Hardware*
+<img width="816" height="684" alt="image" src="https://github.com/user-attachments/assets/efe66502-b2d6-4b1f-8cc7-fac224679c08" />
+<br>
+<br>
+<br>
+
+26. Click *Next* and then select the *Include Bitstream* option and click *Next*
+<img width="809" height="682" alt="image" src="https://github.com/user-attachments/assets/41ccc802-4942-491e-8061-dbaf580919e1" />
+<br>
+<br>
+<br>
+
+27. Now give the file a name you want and a location, would recommend to leave as it is and click *Next*
+<img width="811" height="680" alt="image" src="https://github.com/user-attachments/assets/e03af76e-517f-47ab-bc74-cc20eb0d97f3" />
+<br>
+<br>
+<br>
+
+28. Click the *Finish* button.
+<img width="809" height="678" alt="image" src="https://github.com/user-attachments/assets/31a77777-7e23-4454-b101-153aec7bf835" />
+<br>
+<br>
+<br>
+
+29. With this, the hardware design is ready, and now it's time for the software part.
