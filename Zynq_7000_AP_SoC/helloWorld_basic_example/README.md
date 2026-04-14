@@ -4,6 +4,11 @@
 <br>
 <br>
 
+*Note - We are using the Vivado and Vitis IDE 2023.1 as it is the most convenient and bug free version*
+<br>
+<br>
+<br>
+
 1. Create a new Vivado project as usual but select the part number 'xc7z020clg484-1' or the Zynq 7000 Evaluation kit from the boards list.
 <img width="1920" height="1042" alt="image" src="https://github.com/user-attachments/assets/ec0b1937-6d65-44d6-b39d-8e3b2aeaa386" />
 <br>
@@ -174,3 +179,54 @@
 <br>
 
 30. Now on the top pane, click on *Tools* and then select the *Launch Vitis IDE* option. Or you can also manually start the Vitis IDE.
+<br>
+<br>
+<br>
+
+31. The Vitis Launcher will prompt you to choose a workspace location, do it as per your convenience although keep it short and click on *Launch*
+<img width="655" height="302" alt="image" src="https://github.com/user-attachments/assets/d2948ef4-a6b5-43f2-8418-f8b148ad56e3" />
+<br>
+<br>
+<br>
+
+32. Once the Vitis IDE launches, it will initiate some repos , it can be seen in the bottom right corner of the IDE. Let is complete and then click on *Create Platform Project*
+<img width="1920" height="1046" alt="image" src="https://github.com/user-attachments/assets/e83a8e7b-74dc-4ff9-b1cb-8d56cdea22a9" />
+<br>
+<br>
+<br>
+
+33. Give the platform a name such as *hello_world_platform* and click *Next*
+<img width="996" height="834" alt="image" src="https://github.com/user-attachments/assets/0b18c1e4-4351-45bb-92c4-89382a6fced0" />
+<br>
+<br>
+<br>
+
+34. Now select the .xsa hardware specification file, it is the one which we exported as hardware earlier from the Vivado GUI. Browse and select from where you exported it.
+<img width="686" height="482" alt="image" src="https://github.com/user-attachments/assets/6d4e7479-f2fb-42f9-b8f4-e936bad7a9c6" />
+<br>
+<br>
+<br>
+
+35. Once selected, it will show up in the list, make sure it is selected and then click on *Finish*
+<img width="991" height="828" alt="image" src="https://github.com/user-attachments/assets/098285f4-5c23-454e-8625-873e7e35af05" />
+<br>
+<br>
+<br>
+
+36. Now the platform that we created will be visible in the workspace on the left.
+<img width="548" height="795" alt="image" src="https://github.com/user-attachments/assets/d03923e0-57b3-4568-92af-66d2f18399f9" />
+<br>
+<br>
+<br>
+
+37. Now click the hammer button i.e. the *Build* button to build the platform. You might be able to see the tiny exclamation mark beside the platform which indicates the platform isn't ready yet and hence the building required.
+<img width="504" height="670" alt="image" src="https://github.com/user-attachments/assets/25c8eecb-172b-453b-9de6-a707d09b9bf3" />
+<br>
+<br>
+<br>
+
+38. Once the platform building is successful without errors, you should see the green tick beside the platform name as well as the build finished messagein the vitis console.
+<img width="917" height="1006" alt="image" src="https://github.com/user-attachments/assets/f0364ac1-a641-4412-a7fc-ac46714a576b" />
+<br>
+<br>
+<br>
