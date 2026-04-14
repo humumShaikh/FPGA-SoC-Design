@@ -169,3 +169,8 @@
 <br>
 
 29. With this, the hardware design is ready, and now it's time for the software part.
+<br>
+<br>
+<br>
+
+30. Now on the top pane, click on *Tools* and then select the *Launch Vitis IDE* option. Or you can also manually start the Vitis IDE.
