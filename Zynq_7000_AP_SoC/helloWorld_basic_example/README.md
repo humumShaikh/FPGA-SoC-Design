@@ -1,4 +1,4 @@
-# Hello World program on the ARM Cortex A9 APU workflow
+<img width="1000" height="782" alt="image" src="https://github.com/user-attachments/assets/5a68ea08-7c21-46ae-8ab6-bda373f02ee9" /># Hello World program on the ARM Cortex A9 APU workflow
 
 <br>
 <br>
@@ -245,6 +245,18 @@
 
 41. In the project details window, give the project a name and select the processor by left clicking it and then click on *Next*
 <img width="991" height="782" alt="image" src="https://github.com/user-attachments/assets/5ca9fa94-2580-4690-88ac-e9acbd71ab37" />
+<br>
+<br>
+<br>
+
+42. Select the domain as shown and click on *Next*
+<img width="1000" height="782" alt="image" src="https://github.com/user-attachments/assets/7af95398-efaa-443a-ba24-9f4bfd744b4f" />
+<br>
+<br>
+<br>
+
+43. Now from the list of templates, select the *Hello World* template and then click on *Finish*
+<img width="997" height="781" alt="image" src="https://github.com/user-attachments/assets/9cfb334c-a329-4a01-87aa-b5322ad1a840" />
 <br>
 <br>
 <br>
