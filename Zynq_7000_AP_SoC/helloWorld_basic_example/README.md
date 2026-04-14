@@ -230,3 +230,21 @@
 <br>
 <br>
 <br>
+
+39. Now in the explorer tab, select the platform by left clicking it and then click *New* and then select the *Application Project* , this pop-up will appear, click on *Next*
+<img width="997" height="780" alt="image" src="https://github.com/user-attachments/assets/089bf34c-1c50-47c0-87de-548a8474861c" />
+<br>
+<br>
+<br>
+
+40. In the repository window, from the list of options, choose the platform we created earlier and click on *Next*
+<img width="1000" height="784" alt="image" src="https://github.com/user-attachments/assets/30bbf862-33a8-40af-82ed-167deb2cb42a" />
+<br>
+<br>
+<br>
+
+41. In the project details window, give the project a name and select the processor by left clicking it and then click on *Next*
+<img width="991" height="782" alt="image" src="https://github.com/user-attachments/assets/5ca9fa94-2580-4690-88ac-e9acbd71ab37" />
+<br>
+<br>
+<br>
