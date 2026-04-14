@@ -120,3 +120,20 @@
 <br>
 <br>
 
+21. The wrapper is like a top module for the design. Once the wrapper is created you can see it in the window.
+<img width="699" height="627" alt="image" src="https://github.com/user-attachments/assets/8fad73c7-5936-4935-9061-348a161abf94" />
+<br>
+<br>
+<br>
+
+22. Now in the *Flow Navigator* click on the *Generate Bitstream* button.
+<img width="408" height="850" alt="image" src="https://github.com/user-attachments/assets/d6ccae92-d977-477a-ad9c-a652a83d858d" />
+<br>
+<br>
+<br>
+
+23. Click on yes if vivado asks you that there are no implementation or synthesis and then in the next pop-up select the number of jobs to maximum available for you and click ok.
+<img width="490" height="347" alt="image" src="https://github.com/user-attachments/assets/04bc6cde-ce25-4da6-bd05-7885839d1d8a" />
+<br>
+<br>
+<br>
