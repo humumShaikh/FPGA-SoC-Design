@@ -63,3 +63,27 @@
 <br>
 <br>
 <br>
+
+11. Now connect the *Processor System Reset* IP's *slowest_sync_clk* with the *ZYNQ7 Processing System* IP's *M_AXI_GP0_ACLK* as shown in the diagram.
+<img width="1241" height="576" alt="image" src="https://github.com/user-attachments/assets/e3525d26-2f36-4d71-9834-d468f27d31c8" />
+<br>
+<br>
+<br>
+
+12. Now click on the *Run Connection Automation* button.
+<img width="1241" height="580" alt="image" src="https://github.com/user-attachments/assets/d0920d9f-c02f-4f21-8822-6c9d177df8de" />
+<br>
+<br>
+<br>
+
+13. Select the *All Automation* option as shown and click on ok.
+<img width="1021" height="694" alt="image" src="https://github.com/user-attachments/assets/b93db0cb-2bfd-43ae-ac04-0a61ae5b7178" />
+<br>
+<br>
+<br>
+
+14. The result should look like as shown in this image.
+<img width="1240" height="580" alt="image" src="https://github.com/user-attachments/assets/4560e32f-50b5-4c9d-b45f-aae49f51e56b" />
+<br>
+<br>
+<br>
