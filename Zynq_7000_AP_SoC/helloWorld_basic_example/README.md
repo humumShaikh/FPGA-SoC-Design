@@ -87,3 +87,36 @@
 <br>
 <br>
 <br>
+
+15. Click on the *Regenerate Layout* button as shown.
+<img width="1240" height="584" alt="image" src="https://github.com/user-attachments/assets/dc8334cc-925f-433a-8c10-f88693686f61" />
+<br>
+<br>
+<br>
+
+16. Now click on the *Validate Deisng* button.
+<img width="1243" height="584" alt="image" src="https://github.com/user-attachments/assets/e8ab5024-459b-4beb-bd81-a9c3191a2710" />
+<br>
+<br>
+<br>
+
+17. The design validation must be successful and then click on ok.
+<img width="532" height="161" alt="image" src="https://github.com/user-attachments/assets/64e7954b-c9c9-4fe5-a3fa-3cba50a5ef40" />
+<br>
+<br>
+<br>
+
+18. Now save the design by pressing 'ctrl+s'
+
+19. Now go to the sources tab and look for this block design under the drop down arrow of the *Design Sources*
+<img width="691" height="649" alt="image" src="https://github.com/user-attachments/assets/3c1da700-9b8f-4c34-8f3d-b92c1cb8f908" />
+<br>
+<br>
+<br>
+
+20. Right click it and select the *Create HDL Wrapper* option and then click ok on the following pop-up.
+<img width="527" height="289" alt="image" src="https://github.com/user-attachments/assets/da69273a-f517-49d4-9528-e0be1417258e" />
+<br>
+<br>
+<br>
+
