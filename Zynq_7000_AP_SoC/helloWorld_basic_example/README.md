@@ -137,3 +137,5 @@
 <br>
 <br>
 <br>
+
+24. This process will take quite a good amount of time, also depending on your system. Wait until the bitstream is generated and this pop-up shows up.
