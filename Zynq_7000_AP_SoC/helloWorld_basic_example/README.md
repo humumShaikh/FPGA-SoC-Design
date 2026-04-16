@@ -338,3 +338,20 @@
 <br>
 <br>
 <br>
+
+57. To disconnect and run the program again, click on the highlighted section.
+<img width="601" height="542" alt="image" src="https://github.com/user-attachments/assets/48c6e220-f917-413f-9b58-cf247786b5f4" />
+<br>
+<br>
+<br>
+
+58. Right click it and select *Terminate/Disconnect All*
+<br>
+<br>
+<br>
+
+59. Now on the top right corner of the window, right click the *Debug* button and click on *Close*
+<img width="454" height="276" alt="image" src="https://github.com/user-attachments/assets/986bcbcf-afc3-4976-9432-b19857c95d64" />
+<br>
+<br>
+<br>
