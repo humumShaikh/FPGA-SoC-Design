@@ -272,3 +272,11 @@
 <br>
 <br>
 <br>
+
+46. In the console you will see the build result.
+<img width="1402" height="330" alt="image" src="https://github.com/user-attachments/assets/74f936cd-7e03-4fc0-a9bc-96a4e9e13fde" />
+<br>
+<br>
+<br>
+
+47. 
