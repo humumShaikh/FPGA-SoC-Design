@@ -284,3 +284,9 @@
 <br>
 <br>
 <br>
+
+48. Now select the system component highlighted in the image and then right click it. Then select *Debug As* then select *1 Launch Hardware*
+<img width="547" height="744" alt="image" src="https://github.com/user-attachments/assets/e2d6208f-1c6a-4c1f-bf66-b58157f89693" />
+<br>
+<br>
+<br>
