@@ -1,4 +1,4 @@
-<img width="1000" height="782" alt="image" src="https://github.com/user-attachments/assets/5a68ea08-7c21-46ae-8ab6-bda373f02ee9" /># Hello World program on the ARM Cortex A9 APU workflow
+# Hello World program on the ARM Cortex A9 APU workflow
 
 <br>
 <br>
