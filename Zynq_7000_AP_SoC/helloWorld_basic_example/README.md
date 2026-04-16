@@ -266,3 +266,9 @@
 <br>
 <br>
 <br>
+
+45. Now as we built the platform component before, now let's build the application component by selecting it and then clicking the build (*hammer*) button.
+<img width="521" height="507" alt="image" src="https://github.com/user-attachments/assets/4b81a841-2639-4d52-ba87-06a6a1375526" />
+<br>
+<br>
+<br>
