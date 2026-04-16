@@ -302,3 +302,21 @@
 <br>
 <br>
 <br>
+
+51. Click on the *Vitis Serial Terminal* as highlighted.
+<img width="1032" height="281" alt="image" src="https://github.com/user-attachments/assets/a88da6b6-04a8-423e-8148-a842e270fe3c" />
+<br>
+<br>
+<br>
+
+52. Click on the *+* button.
+<img width="1065" height="276" alt="image" src="https://github.com/user-attachments/assets/39ded523-0d9e-41f9-8be9-6bc9ac64121a" />
+<br>
+<br>
+<br>
+
+53. Select the proper COM Port, look it up in the control panel's device manager section if you don't know and then click on *OK*
+<img width="266" height="379" alt="image" src="https://github.com/user-attachments/assets/a31fea2f-6bf1-488a-99f9-3fb17e50510d" />
+<br>
+<br>
+<br>
