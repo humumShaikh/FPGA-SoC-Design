@@ -260,3 +260,9 @@
 <br>
 <br>
 <br>
+
+44. Select the main helloWorld.c file from the drop down menu as shown and rename it to whatever you want, I have renamed it to *helloworld.c*
+<img width="513" height="747" alt="image" src="https://github.com/user-attachments/assets/b0744fe9-8a1a-4cf4-bbd6-3970c58ca46b" />
+<br>
+<br>
+<br>
