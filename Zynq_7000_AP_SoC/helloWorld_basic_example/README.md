@@ -320,3 +320,15 @@
 <br>
 <br>
 <br>
+
+54. You should see this message in the Serial Terminal.
+<img width="1027" height="257" alt="image" src="https://github.com/user-attachments/assets/1b2a1225-467d-4361-938e-cb2eb7b0d839" />
+<br>
+<br>
+<br>
+
+55. Now click the *Resume* button as highlighted to run the program on the ARM Core.
+<img width="1467" height="905" alt="image" src="https://github.com/user-attachments/assets/f734e52b-79e6-4c7b-aec9-12ffd5202505" />
+<br>
+<br>
+<br>
