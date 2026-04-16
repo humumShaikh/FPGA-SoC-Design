@@ -332,3 +332,9 @@
 <br>
 <br>
 <br>
+
+56. You will be able to see the output on the terminal.
+<img width="1916" height="1001" alt="image" src="https://github.com/user-attachments/assets/8aa71ffe-02dd-4e9b-8399-35baa8e3a501" />
+<br>
+<br>
+<br>
