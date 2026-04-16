@@ -290,3 +290,15 @@
 <br>
 <br>
 <br>
+
+49. In the bottom right corner in the XSCT Console, you will see the debug progress, this process will also program your SoC so make sure it is connected and powered on.
+<img width="466" height="297" alt="image" src="https://github.com/user-attachments/assets/d1f0f3f0-3db0-4d1b-95f7-000af1c068de" />
+<br>
+<br>
+<br>
+
+50. Once the programming is successful, you will see this console below.
+<img width="1920" height="1042" alt="image" src="https://github.com/user-attachments/assets/5dbee72b-c7f0-4aee-b3f4-90e951781b41" />
+<br>
+<br>
+<br>
