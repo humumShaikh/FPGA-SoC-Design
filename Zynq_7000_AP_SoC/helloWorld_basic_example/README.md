@@ -279,4 +279,8 @@
 <br>
 <br>
 
-47. 
+47. This is the main c program. You may modify it as required for this application.
+<img width="512" height="275" alt="image" src="https://github.com/user-attachments/assets/a06469a5-37f6-4e16-8950-1716bca3fc37" />
+<br>
+<br>
+<br>
