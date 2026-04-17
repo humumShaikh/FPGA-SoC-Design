@@ -1,5 +1,4 @@
-In this project, we will be building a custom IP using Vitis HLS
-<br>
+# In this project, we will be building a custom IP using Vitis HLS
 <br>
 <br>
 <br>
