@@ -356,7 +356,7 @@
 <br>
 <br>
 
-60. To relaunch the program on the ARM, disconnect and then close the deubg as shown and then start the deubg session again and then resume
+60. To relaunch the program on the ARM, disconnect and then close the deubg as shown and then start the deubg session again and then resume again for smoother and glitch/bug free operation.
 <br>
 <br>
 <br>
