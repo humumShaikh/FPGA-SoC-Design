@@ -46,6 +46,7 @@
  */
 
 //CWIR3
+//Tried and tested on the ZYNQ 7000 AP SoC
 
 #include <stdio.h>
 #include "platform.h"
