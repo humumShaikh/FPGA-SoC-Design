@@ -45,6 +45,9 @@
  *   ps7_uart    115200 (configured by bootrom/bsp)
  */
 
+//CWIR3
+//Tried and tested on the ZYNQ 7000 AP SoC
+
 #include <stdio.h>
 #include "platform.h"
 #include "xil_printf.h"
